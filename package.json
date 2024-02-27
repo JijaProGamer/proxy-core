@@ -1,0 +1,33 @@
+{
+  "name": "proxy-core",
+  "version": "1.0.0",
+  "description": "Fast and efficient HTTP/SOCKS4/SOCKS5 proxy server for Node.js, requiring only native net module. Simplify your proxy needs with minimal dependencies and optimal performance.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JijaProGamer/proxy-core.git"
+  },
+  "keywords": [
+    "proxy",
+    "server",
+    "Node.js",
+    "HTTP",
+    "SOCKS4",
+    "SOCKS5",
+    "fast",
+    "efficient",
+    "minimal",
+    "net",
+    "module"
+  ],
+  "author": "Bloxxy213",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JijaProGamer/proxy-core/issues"
+  },
+  "homepage": "https://github.com/JijaProGamer/proxy-core#readme"
+}
